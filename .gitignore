@@ -1,0 +1,5 @@
+/.vagrant
+/static
+*.pyc
+/music_scraper/settings/local.py
+/.idea
